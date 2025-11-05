@@ -1,0 +1,14 @@
+{
+  "email": {
+    "greeting": "Hello [Name],\n\nI hope you're doing well.",
+    "closing": "Best regards,\n[Your Name]"
+  },
+  "python": {
+    "venv": "source venv/bin/activate",
+    "run": "python main.py"
+  },
+  "git": {
+    "commit": "git commit -m \"[message]\"",
+    "push": "git push origin main"
+  }
+}
